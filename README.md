@@ -1,4 +1,4 @@
-tutoriais: aspnetcore/tutorials
+tutoriais: Docs/aspnetcore/tutorials/
 
 ## Microsoft Open Source Code of Conduct
 
